@@ -1,0 +1,22 @@
+# Agriculture Production in Canada with SQL and R Programming
+The company is exploring international grain markets to support its supply chain needs for its recent investments in the microbrewery and microdistillery industry, which focuses on crafting beers and spirits.
+ 
+Initial task involves conducting a high-level analysis of crop production in Canada. Stakeholders are keen to gain insights into the current and historical performance of specific crop types, particularly in terms of supply and price fluctuations. The primary focus is on gaining a broad perspective of Canada's crop farming industry and its connection to the relative values of the Canadian and US dollars. This analysis will aid in informed decision-making for the company's supply chain strategies.
+
+1. Successfully loaded multiple datasets into Db2 tables for analysis.
+2. Conducted SQL queries using the RODBC R package to answer specific questions and extract insights.
+3. Determined dataset size and identified provinces in the farm prices dataset.
+4. Extracted specific crop-related information, such as hectares of Rye in 1968 and monthly prices for Canola in Canadian and US dollars.
+5. Ranked crop performance and identified top-yielding crops and provinces, providing valuable data-driven insights for decision-making in the agricultural industry.
+
+Upon Completing this Project i have acquired and upskilled my self with following skill set
+Certainly, here's a more concise list of skills you'll acquire from this project:
+1. Data Analysis
+2. Database Management (Db2)
+3. SQL Querying (RODBC)
+4. Data Visualization
+5. Problem Solving (Agricultural Trends)
+6. Currency Analysis
+7. Communication (Data Insights)
+8. Project Management
+9. Domain Knowledge (Agriculture)
